@@ -1,0 +1,26 @@
+[
+  {
+    "name": "body",
+    "class": ["class_name1", "class_name2"],
+    "id": ["some_id_lol_idk"],
+    "style": {
+      "font-family": "14",
+      "color": "red"
+    }
+  },
+  {
+    "name": "_",
+    "class": ["class_name_hmhmhm"],
+    "style": {
+      "color": "blue"
+    }
+  },
+  {
+    "name": "_",
+    "id": ["button_id"],
+    "other_attr": ["hover"],
+    "style": {
+      "color": "black"
+    }
+  }
+]
